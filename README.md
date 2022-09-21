@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Michael Alberda</h1>
+<h1 align="center">Hi, I'm Michael Alberda</h1>
 <h3 align="center">A mathematics and computer science student</h3>
 
 - I'm currently working for **Tap Network**
