@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Michael Alberda</h1>
-<h3 align="center">A mathematics and computer science student</h3>
+<h3 align="center">A Junior Software Engineer and Web Developer</h3>
 
-- I'm currently working for **Tap Network**
+- I'm currently working for **Tovuti LMS**
 
 - 📫 How to reach me **malberda15@gmail.com**
 
