@@ -3,7 +3,8 @@
 
 - I'm currently working for **Tovuti LMS**
 
-- 📫 How to reach me **malberda15@gmail.com**
+- 📫 **malberda15@gmail.com**
+- 📱 **(208)761-2179**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
