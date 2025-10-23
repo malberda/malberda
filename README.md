@@ -1,7 +1,6 @@
-<h1 align="center">Hi, I'm Michael Alberda</h1>
-<h3 align="center">A Junior Software Engineer</h3>
+<h1 align="center">Hi, I'm Michael Alberda, a software engineer.</h1>
 
-- I'm currently working for **Tovuti LMS**
+- Previously worked at **Tovuti LMS** and **Tap Network LLC**
 
 - 📫 **malberda15@gmail.com**
 - 📱 **(208)761-2179**
